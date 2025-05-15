@@ -1,13 +1,13 @@
 # Splunk-Projects
  
-<img src="https://github.com/Nisha318/Splunk-Projects/blob/main/Files/Lab%20Diagram.PNG"> 
+<img src="https://github.com/kowsick-vig/splunk/blob/main/Files/Lab%20Diagram.PNG"> 
 
 
 <ul>
   <li> <a href="#"> Deploy a Splunk Enterprise Server </a> </li>
-  <li> <a href="https://github.com/Nisha318/Splunk-Projects/blob/main/Configure%20a%20Splunk%20Universal%20Forwarder.md"> Install and Configure a Splunk Universal Forwarder </a> </li> 
-  <li> <a href="https://github.com/Nisha318/Splunk-Projects/tree/main/Create%20Dashboard%20Using%20a%20Dataset"> Create a Dashboard in Splunk Using a Dataset </a></li>
-  <li> <a href="https://github.com/Nisha318/Splunk-Projects/tree/main/Create%20a%20Dashboard%20with%20Pivot"> Create a Dashboard in Splunk Using Pivot </a></li>
+  <li> <a href="https://github.com/kowsick-vig/splunk/blob/main/Configure%20a%20Splunk%20Universal%20Forwarder.md"> Install and Configure a Splunk Universal Forwarder </a> </li> 
+  <li> <a href="https://github.com/kowsick-vig/splunk/tree/main/Create%20Dashboard%20Using%20a%20Dataset"> Create a Dashboard in Splunk Using a Dataset </a></li>
+  <li> <a href="https://github.com/kowsick-vig/splunk/tree/main/Create%20a%20Dashboard%20with%20Pivot"> Create a Dashboard in Splunk Using Pivot </a></li>
 </ul>
 
 <p> 
